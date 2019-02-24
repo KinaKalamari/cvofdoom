@@ -1,0 +1,33 @@
+body {
+  background-color: #ebfffb;
+}
+
+hr {
+  border-color: #eeeeee;
+  border-style: dotted none none;
+  border-top-width: 6px;
+  width: 7%;
+}
+
+h1 {
+  color: #3161a3;
+}
+
+h3 {
+  color: #13abc4;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.img-medium {
+  width: 300px;
+  height: 300px;
+}
+
+img {
+  max-height: 100%;
+  width: auto;
+  vertical-align: middle;
+}
